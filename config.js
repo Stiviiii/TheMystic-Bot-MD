@@ -9,8 +9,8 @@ global.owner = [
   ['5492235671608', '🤖 Mystic - Bot 🤖', true],
   ['5492235514566']
 ] // Cambia los numeros que quieras
-global.mods = [5492235671608] 
-global.prems = [5492235671608] 
+global.mods = [] 
+global.prems = [] 
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
