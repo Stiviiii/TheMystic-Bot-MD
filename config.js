@@ -5,12 +5,12 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['5219991402134', '🤖 Mystic - Bot 🤖', true],
-  ['5219996125657']
+  ['5492235514566', '👑 Mystic - Creador 👑', true],
+  ['5492235514566', '🤖 Mystic - Bot 🤖', true],
+  ['5492235514566']
 ] // Cambia los numeros que quieras
-global.mods = [] 
-global.prems = [] 
+global.mods = [5492235671608] 
+global.prems = [5492235671608] 
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
